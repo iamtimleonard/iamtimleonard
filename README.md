@@ -19,4 +19,4 @@ You can see examples of static sites I made [here](https://fementor-blogr.vercel
    - A simple messaging app
 
 5. [Poll App](https://poll-time-iamtimleonard.herokuapp.com/)
-   - My first MERN app.
+   - MERN app with authentication.
